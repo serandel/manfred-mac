@@ -159,50 +159,6 @@
       },
       {
         "organization": {
-          "name": "Linea Directa",
-          "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b34a5e5-3bae-4b9f-9603-8fc07904a00b_awi7p.png"
-          },
-          "URL": "http://www.lineadirecta.com"
-        },
-        "roles": [
-          {
-            "name": "Java Analist",
-            "startDate": "2005-10-01",
-            "finishDate": "2008-04-30",
-            "challenges": [
-              {
-                "description": "(Outsourced from AT Sistemas until February 2007, Linea Directa employee since then.)\n\n*   Maintenance of a CTI application on Infinity.\n*   Functional analysis, SW architecture design and development of a new CTI client on Genesys platform, with Nortel PBX and SWT technology."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "swt",
-                "type": "technology"
-              },
-              {
-                "name": "jface",
-                "type": "technology"
-              },
-              {
-                "name": "genesys",
-                "type": "technology"
-              },
-              {
-                "name": "pbx",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Gradle Inc.",
           "image": {
             "alt": "799px-Gradle_logo.png",
@@ -933,6 +889,50 @@
               },
               {
                 "name": "Drools",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linea Directa",
+          "image": {
+            "alt": "Linea Directa",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b34a5e5-3bae-4b9f-9603-8fc07904a00b_awi7p.png"
+          },
+          "URL": "http://www.lineadirecta.com"
+        },
+        "roles": [
+          {
+            "name": "Java Analyst",
+            "startDate": "2005-10-01",
+            "finishDate": "2008-04-30",
+            "challenges": [
+              {
+                "description": "(Outsourced from AT Sistemas until February 2007, Linea Directa employee since then.)\n\n*   Maintenance of a CTI application on Infinity.\n*   Functional analysis, SW architecture design and development of a new CTI client on Genesys platform, with Nortel PBX and SWT technology."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "swt",
+                "type": "technology"
+              },
+              {
+                "name": "jface",
+                "type": "technology"
+              },
+              {
+                "name": "genesys",
+                "type": "technology"
+              },
+              {
+                "name": "pbx",
                 "type": "technology"
               }
             ]
