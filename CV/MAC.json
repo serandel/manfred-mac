@@ -713,46 +713,6 @@
       },
       {
         "organization": {
-          "name": "Alba Technology",
-          "image": {
-            "alt": "Alba Technology",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3db8acdc-a5da-4d34-8c47-857f1c053d3c_dqo7h.jpg"
-          },
-          "URL": "http://www.albatechnology.com"
-        },
-        "roles": [
-          {
-            "name": "Java Analist/Developer",
-            "startDate": "2004-10-01",
-            "finishDate": "2005-03-31",
-            "challenges": [
-              {
-                "description": "Development of a VDN management application for Vodafone, outsourced to Grupo Delaware."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "portlet",
-                "type": "technology"
-              },
-              {
-                "name": "velocity",
-                "type": "technology"
-              },
-              {
-                "name": "jetspeed2",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Placo Saint-Gobain España",
           "image": {
             "alt": "Placo Saint-Gobain España",
@@ -933,6 +893,46 @@
               },
               {
                 "name": "pbx",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alba Technology",
+          "image": {
+            "alt": "Alba Technology",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3db8acdc-a5da-4d34-8c47-857f1c053d3c_dqo7h.jpg"
+          },
+          "URL": "http://www.albatechnology.com"
+        },
+        "roles": [
+          {
+            "name": "Java Analyst/Developer",
+            "startDate": "2004-10-01",
+            "finishDate": "2005-03-31",
+            "challenges": [
+              {
+                "description": "Development of a VDN management application for Vodafone, outsourced to Grupo Delaware."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "portlet",
+                "type": "technology"
+              },
+              {
+                "name": "velocity",
+                "type": "technology"
+              },
+              {
+                "name": "jetspeed2",
                 "type": "technology"
               }
             ]
