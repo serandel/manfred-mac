@@ -203,66 +203,6 @@
       },
       {
         "organization": {
-          "name": "ThoughtWorks",
-          "image": {
-            "alt": "Thoughtworks_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/603c7c02-218e-4295-b81d-99386bb8cd39_thoughtworks_logo.png"
-          },
-          "URL": "https://www.thoughtworks.com/"
-        },
-        "roles": [
-          {
-            "name": " Lead Consultant DeveloperLead Consultant Developer ",
-            "startDate": "2020-09-01",
-            "finishDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": "As part to the Price Transformation initiative at Tesco, development of a replacement for legacy servers, integrating the new APIs with other backoffice servers, to deploy changes in products, prices and promotions to the tills in stores"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Splunk",
-                "type": "technology"
-              },
-              {
-                "name": "SQLite",
-                "type": "technology"
-              },
-              {
-                "name": "Micronaut",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Gradle Inc.",
           "image": {
             "alt": "799px-Gradle_logo.png",
@@ -933,6 +873,66 @@
               },
               {
                 "name": "Cordova",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ThoughtWorks",
+          "image": {
+            "alt": "Thoughtworks_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/603c7c02-218e-4295-b81d-99386bb8cd39_thoughtworks_logo.png"
+          },
+          "URL": "https://www.thoughtworks.com/"
+        },
+        "roles": [
+          {
+            "name": " Lead Consultant Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "As part to the Price Transformation initiative at Tesco, development of a replacement for legacy servers, integrating the new APIs with other backoffice servers, to deploy changes in products, prices and promotions to the tills in stores"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Splunk",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
+                "name": "Micronaut",
                 "type": "technology"
               }
             ]
