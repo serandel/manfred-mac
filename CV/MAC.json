@@ -685,54 +685,6 @@
       },
       {
         "organization": {
-          "name": "Linea Directa",
-          "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be98eb88-53e5-4775-9ffb-ce26fe83a5ba_awi7p.png"
-          },
-          "URL": "http://www.lineadirecta.com"
-        },
-        "roles": [
-          {
-            "name": "R+D Analist",
-            "startDate": "2008-04-01",
-            "finishDate": "2009-05-31",
-            "challenges": [
-              {
-                "description": "*   Investigation of new technologies to adopt in IT department\n*   SW architecture design\n*   Process optimization\n*   Supplier management\n*   Pilot apps development"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "Websphere",
-                "type": "technology"
-              },
-              {
-                "name": "Drools",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "GFI Software",
           "image": {
             "alt": "GFI Software",
@@ -933,6 +885,54 @@
               },
               {
                 "name": "Micronaut",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linea Directa",
+          "image": {
+            "alt": "Linea Directa",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be98eb88-53e5-4775-9ffb-ce26fe83a5ba_awi7p.png"
+          },
+          "URL": "http://www.lineadirecta.com"
+        },
+        "roles": [
+          {
+            "name": "R+D Analyst",
+            "startDate": "2008-04-01",
+            "finishDate": "2009-05-31",
+            "challenges": [
+              {
+                "description": "*   Investigation of new technologies to adopt in IT department\n*   SW architecture design\n*   Process optimization\n*   Supplier management\n*   Pilot apps development"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Websphere",
+                "type": "technology"
+              },
+              {
+                "name": "Drools",
                 "type": "technology"
               }
             ]
