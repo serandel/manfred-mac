@@ -345,38 +345,6 @@
       },
       {
         "organization": {
-          "name": "Gextech",
-          "image": {
-            "alt": "Gextech",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/567d5553-a86f-4a5c-9643-6b946a45ec13_e9lvc.png"
-          },
-          "URL": "https://www.linkedin.com/company/gextech"
-        },
-        "roles": [
-          {
-            "name": "Java Analist/Developer",
-            "startDate": "2003-07-01",
-            "finishDate": "2004-01-31",
-            "challenges": [
-              {
-                "description": "Responsible for designing and implementing the prize system for GOS (Game Operating System), a platform for developing slot machines."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "OpenGL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Paradigma Digital",
           "image": {
             "alt": "Paradigma Digital",
@@ -741,6 +709,38 @@
               },
               {
                 "name": "Cordova",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gextech",
+          "image": {
+            "alt": "Gextech",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/567d5553-a86f-4a5c-9643-6b946a45ec13_e9lvc.png"
+          },
+          "URL": "https://www.linkedin.com/company/gextech"
+        },
+        "roles": [
+          {
+            "name": "Java Analyst/Developer",
+            "startDate": "2003-07-01",
+            "finishDate": "2004-01-31",
+            "challenges": [
+              {
+                "description": "Responsible for designing and implementing the prize system for GOS (Game Operating System), a platform for developing slot machines."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "OpenGL",
                 "type": "technology"
               }
             ]
