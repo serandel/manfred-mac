@@ -15,25 +15,27 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0c96361e-7659-474a-b7ef-6e38e7b51298_avatar.png"
       },
       "location": {
-        "notes": "Fuengirola, Andalusia, ES"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Fuengirola"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sergio-antonio-delgado-quero/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/serandel"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/1154011/serandel"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/@serandel"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/1154011/serandel"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergio-antonio-delgado-quero/"
       }
     ],
     "interestingFacts": [
@@ -48,31 +50,6 @@
     ],
     "recommendations": [
       {
-        "title": "Cracking the Coding Interview",
-        "type": "reading",
-        "authors": [
-          {
-            "name": "Gayle",
-            "surnames": "Laakman McDowell",
-            "title": "Author"
-          }
-        ],
-        "summary": "I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book."
-      },
-      {
-        "title": "Thinking in Java",
-        "type": "reading",
-        "URL": "http://www.mindview.net/Books/TIJ",
-        "authors": [
-          {
-            "name": "Bruce",
-            "surnames": "Eckel",
-            "title": "Author"
-          }
-        ],
-        "summary": "Thinking in Java has earned raves from programmers worldwide for its extraordinary clarity, careful organization, and small, direct programming examples. From the fundamentals of Java syntax to its most advanced features, Thinking in Java is designed to teach, one simple step at a time."
-      },
-      {
         "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
         "type": "reading",
         "authors": [
@@ -83,6 +60,18 @@
           }
         ],
         "summary": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."
+      },
+      {
+        "title": "Cracking the Coding Interview",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Gayle",
+            "surnames": "Laakman McDowell",
+            "title": "Author"
+          }
+        ],
+        "summary": "I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book."
       },
       {
         "title": "Planifica tu éxito: de aprendiz a empresario",
@@ -108,6 +97,19 @@
           }
         ],
         "summary": "The Busy Coder's Guide to Android Development offers over 200 chapters of Android knowledge, from the very basics through highly advanced topics. Updated several times a year, it covers Android Studio 2.2 and the latest Android SDKs, including Android 7.0."
+      },
+      {
+        "title": "Thinking in Java",
+        "type": "reading",
+        "URL": "http://www.mindview.net/Books/TIJ",
+        "authors": [
+          {
+            "name": "Bruce",
+            "surnames": "Eckel",
+            "title": "Author"
+          }
+        ],
+        "summary": "Thinking in Java has earned raves from programmers worldwide for its extraordinary clarity, careful organization, and small, direct programming examples. From the fundamentals of Java syntax to its most advanced features, Thinking in Java is designed to teach, one simple step at a time."
       }
     ]
   },
@@ -115,42 +117,65 @@
     "jobs": [
       {
         "organization": {
-          "name": "Placo Saint-Gobain España",
+          "name": "BestSecret",
           "image": {
-            "alt": "Placo Saint-Gobain España",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2bca91cc-16b8-40ed-8e68-b8517ed8afbe_2uquv.png"
+            "alt": "bs-logo-symbol.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/806b619d-17c7-4bec-b418-5efa026e548f_bs-logo-symbol.svg"
           },
-          "URL": "http://www.placo.es"
+          "URL": "https://www.bestsecret.com"
         },
         "roles": [
           {
-            "name": "Freelance Mobile Developer",
-            "startDate": "2015-11-01",
-            "finishDate": "2016-02-28",
+            "name": "Senior Software Engineer",
+            "startDate": "2021-12-01",
             "challenges": [
               {
-                "description": "Evolutive maintenance of a mobile app for Placo Saint-Gobain Spain on iPhone and Android."
+                "description": "Member of the Search&Browse team, focused on improving the browsing experience for the customer in our e-commerce website."
               }
             ],
             "competences": [
               {
-                "name": "iOS",
+                "name": "Azure",
                 "type": "technology"
               },
               {
-                "name": "Android",
+                "name": "Elasticsearch",
                 "type": "technology"
               },
               {
-                "name": "Cordova",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "phonegap-cli",
+                "name": "GitLab",
                 "type": "technology"
               },
               {
-                "name": "jquery-mobile",
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "SAP Hybris",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
                 "type": "technology"
               }
             ]
@@ -178,11 +203,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Docker",
                 "type": "technology"
               },
               {
-                "name": "Docker",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -203,45 +228,30 @@
       },
       {
         "organization": {
-          "name": "BestSecret",
+          "name": "ThoughtWorks",
           "image": {
-            "alt": "bs-logo-symbol.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/806b619d-17c7-4bec-b418-5efa026e548f_bs-logo-symbol.svg"
+            "alt": "Thoughtworks_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/603c7c02-218e-4295-b81d-99386bb8cd39_thoughtworks_logo.png"
           },
-          "URL": "https://www.bestsecret.com"
+          "URL": "https://www.thoughtworks.com/"
         },
         "roles": [
           {
-            "name": "Senior Software Engineer",
-            "startDate": "2021-12-01",
+            "name": " Lead Consultant Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2021-01-01",
             "challenges": [
               {
-                "description": "Member of the Search&Browse team, focused on improving the browsing experience for the customer in our e-commerce website."
+                "description": "As part to the Price Transformation initiative at Tesco, development of a replacement for legacy servers, integrating the new APIs with other backoffice servers, to deploy changes in products, prices and promotions to the tills in stores"
               }
             ],
             "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
               {
                 "name": "Azure",
                 "type": "technology"
               },
               {
-                "name": "Kafka",
+                "name": "Docker",
                 "type": "technology"
               },
               {
@@ -249,11 +259,103 @@
                 "type": "technology"
               },
               {
-                "name": "GitLab",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "SAP Hybris",
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Micronaut",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
+                "name": "Splunk",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "YouCanBook.me",
+          "image": {
+            "alt": "YouCanBook.me",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/280abbc3-8b23-4fb6-b746-f103d601ed2e_dlkgw.png"
+          },
+          "URL": "https://youcanbook.me"
+        },
+        "roles": [
+          {
+            "name": "Engineering Team Lead / Java Architect",
+            "startDate": "2018-08-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "*   Development and maintenance of a SaaS calendaring platform deployed on AWS Elastic Beanstalk\n*   Back-end systems architecture\n*   Monitoring of the platform\n*   Roadmap management and planning\n*   Management of the engineering team, including 1-on-1 coaching, recruiting new members, and software development lifecycle refining"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
                 "type": "technology"
               }
             ]
@@ -276,47 +378,7 @@
             "finishDate": "2018-08-31",
             "competences": [
               {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
                 "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Jupyter",
                 "type": "technology"
               },
               {
@@ -324,7 +386,47 @@
                 "type": "technology"
               },
               {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
                 "name": "Mercurial",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
                 "type": "technology"
               },
               {
@@ -364,27 +466,19 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "Spring Boot",
+                "name": "AWS EC2",
                 "type": "technology"
               },
               {
-                "name": "Kafka",
+                "name": "Couchbase",
                 "type": "technology"
               },
               {
-                "name": "SOAP",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -392,19 +486,107 @@
                 "type": "technology"
               },
               {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
                 "name": "Vert.x",
                 "type": "technology"
               },
               {
-                "name": "EC2",
-                "type": "technology"
-              },
-              {
-                "name": "couchbase",
-                "type": "technology"
-              },
-              {
                 "name": "apache-kafka-streams",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Placo Saint-Gobain España",
+          "image": {
+            "alt": "Placo Saint-Gobain España",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2bca91cc-16b8-40ed-8e68-b8517ed8afbe_2uquv.png"
+          },
+          "URL": "http://www.placo.es"
+        },
+        "roles": [
+          {
+            "name": "Freelance Mobile Developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-02-28",
+            "challenges": [
+              {
+                "description": "Evolutive maintenance of a mobile app for Placo Saint-Gobain Spain on iPhone and Android."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "jquery-mobile",
+                "type": "technology"
+              },
+              {
+                "name": "phonegap-cli",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Placo Saint-Gobain España",
+          "image": {
+            "alt": "Placo Saint-Gobain España",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43a6d541-0741-473e-805a-b38bbf774cfb_lbjdz.png"
+          },
+          "URL": "https://www.placo.es"
+        },
+        "roles": [
+          {
+            "name": "Freelance Mobile Developer",
+            "startDate": "2011-09-01",
+            "finishDate": "2012-03-31",
+            "challenges": [
+              {
+                "description": "Development of a mobile app for Placo Saint-Gobain Spain on iPhone and Android."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
                 "type": "technology"
               }
             ]
@@ -432,15 +614,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Android",
                 "type": "technology"
               },
               {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
+                "name": "Apple iOS",
                 "type": "technology"
               },
               {
@@ -448,23 +626,7 @@
                 "type": "technology"
               },
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
+                "name": "Elasticsearch",
                 "type": "technology"
               },
               {
@@ -472,11 +634,35 @@
                 "type": "technology"
               },
               {
-                "name": "Websphere",
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
                 "type": "technology"
               },
               {
                 "name": "NEO4J",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Websphere",
+                "type": "technology"
+              },
+              {
+                "name": "cxf",
                 "type": "technology"
               },
               {
@@ -486,9 +672,53 @@
               {
                 "name": "oracle-spatial",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linea Directa",
+          "image": {
+            "alt": "Linea Directa",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be98eb88-53e5-4775-9ffb-ce26fe83a5ba_awi7p.png"
+          },
+          "URL": "http://www.lineadirecta.com"
+        },
+        "roles": [
+          {
+            "name": "R+D Analyst",
+            "startDate": "2008-04-01",
+            "finishDate": "2009-05-31",
+            "challenges": [
+              {
+                "description": "*   Investigation of new technologies to adopt in IT department\n*   SW architecture design\n*   Process optimization\n*   Supplier management\n*   Pilot apps development"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
               },
               {
-                "name": "cxf",
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Drools",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Websphere",
                 "type": "technology"
               }
             ]
@@ -497,21 +727,21 @@
       },
       {
         "organization": {
-          "name": "YouCanBook.me",
+          "name": "Linea Directa",
           "image": {
-            "alt": "YouCanBook.me",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/280abbc3-8b23-4fb6-b746-f103d601ed2e_dlkgw.png"
+            "alt": "Linea Directa",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b34a5e5-3bae-4b9f-9603-8fc07904a00b_awi7p.png"
           },
-          "URL": "https://youcanbook.me"
+          "URL": "http://www.lineadirecta.com"
         },
         "roles": [
           {
-            "name": "Engineering Team Lead / Java Architect",
-            "startDate": "2018-08-01",
-            "finishDate": "2020-04-01",
+            "name": "Java Analyst",
+            "startDate": "2005-10-01",
+            "finishDate": "2008-04-30",
             "challenges": [
               {
-                "description": "*   Development and maintenance of a SaaS calendaring platform deployed on AWS Elastic Beanstalk\n*   Back-end systems architecture\n*   Monitoring of the platform\n*   Roadmap management and planning\n*   Management of the engineering team, including 1-on-1 coaching, recruiting new members, and software development lifecycle refining"
+                "description": "(Outsourced from AT Sistemas until February 2007, Linea Directa employee since then.)\n\n*   Maintenance of a CTI application on Infinity.\n*   Functional analysis, SW architecture design and development of a new CTI client on Genesys platform, with Nortel PBX and SWT technology."
               }
             ],
             "competences": [
@@ -520,87 +750,19 @@
                 "type": "technology"
               },
               {
-                "name": "Spring",
+                "name": "genesys",
                 "type": "technology"
               },
               {
-                "name": "AWS",
+                "name": "jface",
                 "type": "technology"
               },
               {
-                "name": "MySQL",
+                "name": "pbx",
                 "type": "technology"
               },
               {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Trello",
-                "type": "technology"
-              },
-              {
-                "name": "Amazon SQS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Datacontrol Sistemas Informáticos",
-          "image": {
-            "alt": "Datacontrol Sistemas Informáticos",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/20233b68-f135-4072-99a2-35ac6181a26b_wejqu.jpg"
-          },
-          "URL": "http://www.datacontrol.es/"
-        },
-        "roles": [
-          {
-            "name": "Web Designer/Developer",
-            "startDate": "2000-11-01",
-            "finishDate": "2001-04-30",
-            "challenges": [
-              {
-                "description": "*   Grant from Andalucía regional government through University of Málaga\n*   Development and maintenance of several websites and web applications, including an e-learning portal"
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "photoshop",
+                "name": "swt",
                 "type": "technology"
               }
             ]
@@ -645,70 +807,38 @@
       },
       {
         "organization": {
-          "name": "Legend Studios",
+          "name": "Alba Technology",
           "image": {
-            "alt": "Legend Studios",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/597b0a86-f4b1-4434-8018-8e83e45bac11_bfilr.png"
+            "alt": "Alba Technology",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3db8acdc-a5da-4d34-8c47-857f1c053d3c_dqo7h.jpg"
           },
-          "URL": "https://www.linkedin.com/company/legend-studios"
+          "URL": "http://www.albatechnology.com"
         },
         "roles": [
           {
-            "name": "Visual C++ Developer and Webmaster",
-            "startDate": "2002-07-01",
-            "finishDate": "2003-06-30",
+            "name": "Java Analyst/Developer",
+            "startDate": "2004-10-01",
+            "finishDate": "2005-03-31",
             "challenges": [
               {
-                "description": "*   Development of War Times, a RTS videogame\n*   Specialized in UI and data communication over TCP/IP\n*   Webmaster for its promotional website"
+                "description": "Development of a VDN management application for Vodafone, outsourced to Grupo Delaware."
               }
             ],
             "competences": [
               {
-                "name": "HTML",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "visual-c++",
+                "name": "jetspeed2",
                 "type": "technology"
               },
               {
-                "name": "directx",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Placo Saint-Gobain España",
-          "image": {
-            "alt": "Placo Saint-Gobain España",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43a6d541-0741-473e-805a-b38bbf774cfb_lbjdz.png"
-          },
-          "URL": "https://www.placo.es"
-        },
-        "roles": [
-          {
-            "name": "Freelance Mobile Developer",
-            "startDate": "2011-09-01",
-            "finishDate": "2012-03-31",
-            "challenges": [
-              {
-                "description": "Development of a mobile app for Placo Saint-Gobain Spain on iPhone and Android."
-              }
-            ],
-            "competences": [
-              {
-                "name": "iOS",
+                "name": "portlet",
                 "type": "technology"
               },
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Cordova",
+                "name": "velocity",
                 "type": "technology"
               }
             ]
@@ -749,58 +879,34 @@
       },
       {
         "organization": {
-          "name": "ThoughtWorks",
+          "name": "Legend Studios",
           "image": {
-            "alt": "Thoughtworks_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/603c7c02-218e-4295-b81d-99386bb8cd39_thoughtworks_logo.png"
+            "alt": "Legend Studios",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/597b0a86-f4b1-4434-8018-8e83e45bac11_bfilr.png"
           },
-          "URL": "https://www.thoughtworks.com/"
+          "URL": "https://www.linkedin.com/company/legend-studios"
         },
         "roles": [
           {
-            "name": " Lead Consultant Developer",
-            "startDate": "2020-09-01",
-            "finishDate": "2021-01-01",
+            "name": "Visual C++ Developer and Webmaster",
+            "startDate": "2002-07-01",
+            "finishDate": "2003-06-30",
             "challenges": [
               {
-                "description": "As part to the Price Transformation initiative at Tesco, development of a replacement for legacy servers, integrating the new APIs with other backoffice servers, to deploy changes in products, prices and promotions to the tills in stores"
+                "description": "*   Development of War Times, a RTS videogame\n*   Specialized in UI and data communication over TCP/IP\n*   Webmaster for its promotional website"
               }
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "HTML",
                 "type": "technology"
               },
               {
-                "name": "Docker",
+                "name": "directx",
                 "type": "technology"
               },
               {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Splunk",
-                "type": "technology"
-              },
-              {
-                "name": "SQLite",
-                "type": "technology"
-              },
-              {
-                "name": "Micronaut",
+                "name": "visual-c++",
                 "type": "technology"
               }
             ]
@@ -809,130 +915,34 @@
       },
       {
         "organization": {
-          "name": "Linea Directa",
+          "name": "Datacontrol Sistemas Informáticos",
           "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be98eb88-53e5-4775-9ffb-ce26fe83a5ba_awi7p.png"
+            "alt": "Datacontrol Sistemas Informáticos",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/20233b68-f135-4072-99a2-35ac6181a26b_wejqu.jpg"
           },
-          "URL": "http://www.lineadirecta.com"
+          "URL": "http://www.datacontrol.es/"
         },
         "roles": [
           {
-            "name": "R+D Analyst",
-            "startDate": "2008-04-01",
-            "finishDate": "2009-05-31",
+            "name": "Web Designer/Developer",
+            "startDate": "2000-11-01",
+            "finishDate": "2001-04-30",
             "challenges": [
               {
-                "description": "*   Investigation of new technologies to adopt in IT department\n*   SW architecture design\n*   Process optimization\n*   Supplier management\n*   Pilot apps development"
+                "description": "*   Grant from Andalucía regional government through University of Málaga\n*   Development and maintenance of several websites and web applications, including an e-learning portal"
               }
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "PHP",
                 "type": "technology"
               },
               {
-                "name": "iOS",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "Websphere",
-                "type": "technology"
-              },
-              {
-                "name": "Drools",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Linea Directa",
-          "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b34a5e5-3bae-4b9f-9603-8fc07904a00b_awi7p.png"
-          },
-          "URL": "http://www.lineadirecta.com"
-        },
-        "roles": [
-          {
-            "name": "Java Analyst",
-            "startDate": "2005-10-01",
-            "finishDate": "2008-04-30",
-            "challenges": [
-              {
-                "description": "(Outsourced from AT Sistemas until February 2007, Linea Directa employee since then.)\n\n*   Maintenance of a CTI application on Infinity.\n*   Functional analysis, SW architecture design and development of a new CTI client on Genesys platform, with Nortel PBX and SWT technology."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "swt",
-                "type": "technology"
-              },
-              {
-                "name": "jface",
-                "type": "technology"
-              },
-              {
-                "name": "genesys",
-                "type": "technology"
-              },
-              {
-                "name": "pbx",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Alba Technology",
-          "image": {
-            "alt": "Alba Technology",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3db8acdc-a5da-4d34-8c47-857f1c053d3c_dqo7h.jpg"
-          },
-          "URL": "http://www.albatechnology.com"
-        },
-        "roles": [
-          {
-            "name": "Java Analyst/Developer",
-            "startDate": "2004-10-01",
-            "finishDate": "2005-03-31",
-            "challenges": [
-              {
-                "description": "Development of a VDN management application for Vodafone, outsourced to Grupo Delaware."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "portlet",
-                "type": "technology"
-              },
-              {
-                "name": "velocity",
-                "type": "technology"
-              },
-              {
-                "name": "jetspeed2",
+                "name": "photoshop",
                 "type": "technology"
               }
             ]
@@ -955,11 +965,11 @@
         "publishingDate": "2020-07-01",
         "relatedCompetences": [
           {
-            "name": "JAVA",
+            "name": "AWS",
             "type": "technology"
           },
           {
-            "name": "AWS",
+            "name": "JAVA",
             "type": "technology"
           }
         ]
@@ -969,10 +979,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -990,13 +1000,7 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
+          "name": "Kafka",
           "type": "technology"
         }
       },
@@ -1008,13 +1012,13 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Boot",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -1026,7 +1030,7 @@
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -1038,7 +1042,7 @@
       },
       {
         "skill": {
-          "name": "Spring Cloud",
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -1047,9 +1051,63 @@
           "name": "Micronaut",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Docker Administration and Operations",
+        "startDate": "2016-04-01",
+        "finishDate": "2016-04-30",
+        "institution": {
+          "name": "Antelops",
+          "image": {
+            "alt": "Docker Administration and Operations",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43c036bf-66b3-4544-b91e-d218f8849b5b_jhg86.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "docker-compose",
+            "type": "technology"
+          },
+          {
+            "name": "docker-machine",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Introduction to Neo4j",
+        "startDate": "2015-06-01",
+        "finishDate": "2015-06-30",
+        "institution": {
+          "name": "Neo Technology",
+          "image": {
+            "alt": "Introduction to Neo4j",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0225bffc-91d5-4017-bb1c-1007860e3d9f_k7wrc.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NEO4J",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "certification",
         "degreeAchieved": true,
@@ -1061,20 +1119,6 @@
           "image": {
             "alt": "Certified Scrum Master",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e7c3fe0a-20e7-4a92-9a3f-0ce2ee954ede_o3szw.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "ITIL Foundation",
-        "startDate": "2007-07-01",
-        "finishDate": "2007-07-31",
-        "institution": {
-          "name": "ITIL Foundation",
-          "image": {
-            "alt": "ITIL Foundation",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b3cfd60b-d0e6-4726-921b-574e353788ff_k34qu.jpg"
           }
         }
       },
@@ -1107,6 +1151,20 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ITIL Foundation",
+        "startDate": "2007-07-01",
+        "finishDate": "2007-07-31",
+        "institution": {
+          "name": "ITIL Foundation",
+          "image": {
+            "alt": "ITIL Foundation",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b3cfd60b-d0e6-4726-921b-574e353788ff_k34qu.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Engineer in Computer Science",
@@ -1119,54 +1177,6 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6bffdab0-0b57-4b14-8bc1-c7d378fd0342_zrzd8.gif"
           }
         }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Introduction to Neo4j",
-        "startDate": "2015-06-01",
-        "finishDate": "2015-06-30",
-        "institution": {
-          "name": "Neo Technology",
-          "image": {
-            "alt": "Introduction to Neo4j",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0225bffc-91d5-4017-bb1c-1007860e3d9f_k7wrc.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NEO4J",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Docker Administration and Operations",
-        "startDate": "2016-04-01",
-        "finishDate": "2016-04-30",
-        "institution": {
-          "name": "Antelops",
-          "image": {
-            "alt": "Docker Administration and Operations",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43c036bf-66b3-4544-b91e-d218f8849b5b_jhg86.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "docker-compose",
-            "type": "technology"
-          },
-          {
-            "name": "docker-machine",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
@@ -1186,7 +1196,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "AWS",
           "type": "technology"
         },
         {
@@ -1194,15 +1204,27 @@
           "type": "technology"
         },
         {
-          "name": "RxJava",
-          "type": "technology"
-        },
-        {
           "name": "Docker",
           "type": "technology"
         },
         {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
           "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "RxJava",
           "type": "technology"
         },
         {
@@ -1212,27 +1234,15 @@
         {
           "name": "Spring Boot",
           "type": "technology"
-        },
-        {
-          "name": "AWS",
-          "type": "technology"
-        },
-        {
-          "name": "Kafka",
-          "type": "technology"
-        },
-        {
-          "name": "Elasticsearch",
-          "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "Swift",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
-          "name": "JavaScript",
+          "name": "Swift",
           "type": "technology"
         }
       ]
