@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Sergio Antonio",
       "surnames": "Delgado Quero",
       "title": "Senior Software Engineer at BestSecret",
-      "description": "I work as Senior Software Engineer at BestSecret.\n\nAfter twenty-five years developing software, I'm still as obsessed with learning and improving myself and my teams constantly as the first day.",
+      "description": "",
       "avatar": {
         "alt": "avatar.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0c96361e-7659-474a-b7ef-6e38e7b51298_avatar.png"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Fuengirola"
+        "municipality": "Fuengirola",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -83,7 +84,8 @@
             "surnames": "Canales",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "The Busy Coder's Guide to Android Development",
@@ -376,6 +378,11 @@
             "name": "Madrid Development Team Lead",
             "startDate": "2018-03-01",
             "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -979,10 +986,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -1068,6 +1077,7 @@
         "finishDate": "2016-04-30",
         "institution": {
           "name": "Antelops",
+          "description": "",
           "image": {
             "alt": "Docker Administration and Operations",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43c036bf-66b3-4544-b91e-d218f8849b5b_jhg86.png"
@@ -1096,6 +1106,7 @@
         "finishDate": "2015-06-30",
         "institution": {
           "name": "Neo Technology",
+          "description": "",
           "image": {
             "alt": "Introduction to Neo4j",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0225bffc-91d5-4017-bb1c-1007860e3d9f_k7wrc.jpg"
@@ -1116,6 +1127,7 @@
         "finishDate": "2012-09-30",
         "institution": {
           "name": "Certified Scrum Master",
+          "description": "",
           "image": {
             "alt": "Certified Scrum Master",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e7c3fe0a-20e7-4a92-9a3f-0ce2ee954ede_o3szw.jpg"
@@ -1130,6 +1142,7 @@
         "finishDate": "2012-05-31",
         "institution": {
           "name": "C1 Level)",
+          "description": "",
           "image": {
             "alt": "Certificate in Advanced English (CAE, C1 Level)",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2a37128b-b8cf-466b-a75b-36b374ed9bcd_llcco.gif"
@@ -1144,6 +1157,7 @@
         "finishDate": "2009-05-31",
         "institution": {
           "name": "B2 Level)",
+          "description": "",
           "image": {
             "alt": "First Certificate in English (FCE, B2 Level)",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d907a89e-f112-4289-a850-1a5a1919c378_wdhnb.gif"
@@ -1158,6 +1172,7 @@
         "finishDate": "2007-07-31",
         "institution": {
           "name": "ITIL Foundation",
+          "description": "",
           "image": {
             "alt": "ITIL Foundation",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b3cfd60b-d0e6-4726-921b-574e353788ff_k34qu.jpg"
@@ -1172,6 +1187,7 @@
         "finishDate": "2002-07-31",
         "institution": {
           "name": "University of Malaga",
+          "description": "",
           "image": {
             "alt": "Engineer in Computer Science",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6bffdab0-0b57-4b14-8bc1-c7d378fd0342_zrzd8.gif"
@@ -1245,7 +1261,16 @@
           "name": "Swift",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Director / General Manager",
+        "Engineering Management",
+        "Mobile Developer",
+        "Software Architect",
+        "VP of Engineering"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
