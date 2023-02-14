@@ -997,43 +997,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
           "type": "technology"
         }
       },
@@ -1045,7 +1009,37 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Micronaut",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -1057,7 +1051,13 @@
       },
       {
         "skill": {
-          "name": "Micronaut",
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -1272,5 +1272,17 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      }
+    ]
   }
 }
