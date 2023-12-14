@@ -11,8 +11,8 @@
       "title": "Principal Software Engineer @ BestSecret",
       "description": "I work as Senior Software Engineer at BestSecret.\n\nAfter twenty-five years developing software, I'm still as obsessed with learning and improving myself and my teams constantly as the first day.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/d8920c08-0971-45a7-995d-8459f0be7091_linkedin-photo-194.linkedin-photo-194",
-        "alt": "23/12/14/d8920c08-0971-45a7-995d-8459f0be7091_linkedin-photo-194.linkedin-photo-194"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/245074ea-2313-40a3-917c-f6ff09db5df8_linkedin-photo-194.linkedin-photo-194",
+        "alt": "23/12/14/245074ea-2313-40a3-917c-f6ff09db5df8_linkedin-photo-194.linkedin-photo-194"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJI_ovED7icg0R9GIZm1HcWCA)",
@@ -111,6 +111,335 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BestSecret",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/ba0c09d4-42e8-4eec-a084-20bf6b2a3661_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/ba0c09d4-42e8-4eec-a084-20bf6b2a3661_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Principal Software Engineer",
+            "startDate": "2021-12-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gradle Inc.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/cfd85589-79a0-474f-ba65-8dcbeb8d0d02_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/cfd85589-79a0-474f-ba65-8dcbeb8d0d02_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2021-02-01",
+            "finishDate": "2021-07-31",
+            "challenges": [
+              {
+                "description": "100% remote company, with a international distributed team.\n\nMember of the Gradle Enterprise Operations team, focused in solving support tickets for customers, managing the infrastructure and developing non-functional requirements (performance, security, etc.) for the product."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ThoughtWorks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/5f6aa715-29e0-41cc-989c-f273d9fa1553_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/5f6aa715-29e0-41cc-989c-f273d9fa1553_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Consultant Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2021-01-31",
+            "challenges": [
+              {
+                "description": "As part to the Price Transformation initiative at Tesco, development of a replacement for legacy servers, integrating the new APIs with other backoffice servers, to deploy changes in products, prices and promotions to the tills in stores\n\nDocker, Java 11, Micronaut, REST webservices, SQLite, Azure Pipelines, Splunk, Git, Jira, Teams, Zoom, Kanban"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "YouCanBook.Me",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/caec06b5-bdb5-44be-a0cc-12930da01d03_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/caec06b5-bdb5-44be-a0cc-12930da01d03_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Engineering Team Lead",
+            "startDate": "2018-08-01",
+            "finishDate": "2020-04-30",
+            "challenges": [
+              {
+                "description": "100% remote British company, with an international team\n\n- Continuous improvement of the Software Development Lifecycle\n- 1-on-1 management with the rest of the team\n- Roadmap management and planning\n- Monitoring of the platform\n- Hands-on coding and technical evolution of the platform\n- Needs and evolution of the team\n- Recruitement of new engineers\n\nAWS, Elastic Beanstalk, Docker, Java 8, Spring Boot, REST webservices, JavaScript, Lambda, Aurora (MySQL), DynamoDB, Elasticache (Redis), SQS, Kinesis Streams, CodeCommit, CodeBuild, CodeGuru, Cloduwatch, Terraform, Git, Jira, Confluence, Trello, Slack, Zoom, Kanban"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ebury"
+        },
+        "roles": [
+          {
+            "name": "Madrid Development Team Lead",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": "- Creation and management of the software development teams at the new IT office in Madrid\n- Back-end systems architecture\n\nAWS, ECS, SQS, SNS, Docker, microservices, Python, Django, Jupyter, PostgreSQL,\nElasticsearch, Kibana, Mercurial, Git, Jenkins, Terraform, Scrum"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Paradigma Digital",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/4371a927-26e4-4b6f-b571-af167e5073af_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/4371a927-26e4-4b6f-b571-af167e5073af_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Architect",
+            "startDate": "2016-09-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "- Development of a multi-channel notification sending platform for Vodafone Spain deployed on Amazon Web Services ECS for autoscaling and tolerance to massive load spikes\n- Design and implementation of the software development cycle, from the branching model in version control to Continous Integration and automatic deployments\n\nAWS, ECS, Docker, microservices, REST webservices, Java 8, Spring Boot, Spring Cloud, Vert.X, nginx,\nKotlin, Kafka, Kappa architecture, Couchbase, Elasticsearch, Kibana, APNs, FCM, Git,\nJenkins, Scrum, Kanban"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Mobile Developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-02-28",
+            "challenges": [
+              {
+                "description": "Evolutive maintenance of a mobile app for Placo Saint-Gobain Spain on iPhone and Android, using PhoneGap (Cordova) and jQueryMobile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Mobile Developer",
+            "startDate": "2011-09-01",
+            "finishDate": "2012-03-31",
+            "challenges": [
+              {
+                "description": "Development of a mobile app for Placo Saint-Gobain Spain on iPhone and Android, using PhoneGap (Cordova) and jQueryMobile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linea Directa Aseguradora",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/f0cea6af-b6dc-49ff-b790-3a19dc041459_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/f0cea6af-b6dc-49ff-b790-3a19dc041459_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "R+D Team Leader",
+            "startDate": "2009-05-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "- In charge of client-facing mobile apps (En Ruta, iOS/Android, >180.000 users, >\n4 stars rating, #1 insurance app in Spain according to independent studies from\nCapgemini, among others)\n- Coordination of a 3-5 people team, while doing developer and analyst duties\npart-time\n- Member of the R+D Committee , including CEO, CTO and director board\n- First REST API in the company, including Internet-facing auth scheme\n- First Scrum project in the company\n\nJava, MS Project, Scrum, Kanban, Artemis, SVN, GIS, jUnit, Mockito, jQuery,\nAngularJS, Polymer, Selenium, J2EE, HTML5, CSS, Javascript, Neo4j, Spring Boot, REST webservices, Docker, Elasticsearch, Kibana"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linea Directa Aseguradora",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/53da72c5-2f00-4171-862c-3f34f667996a_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/53da72c5-2f00-4171-862c-3f34f667996a_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "R+D Analist",
+            "startDate": "2008-04-01",
+            "finishDate": "2009-05-31",
+            "challenges": [
+              {
+                "description": "- Investigation of new technologies to adopt in IT department\n- SW architecture design\n- Process optimization\n- Supplier management\n- Pilot apps development\n\nEclipse, Hibernate, SQL, JDBC on Oracle, REST webservices, J2EE, Drools,\nWebMethods, BPM, SOA, Tomcat, Java applets, HTML, CSS, Javascript, Dimensions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linea Directa Aseguradora",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/acfedcef-cccc-40cf-bd49-837abc1167ba_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/acfedcef-cccc-40cf-bd49-837abc1167ba_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Analist",
+            "startDate": "2007-02-01",
+            "finishDate": "2008-04-30",
+            "challenges": [
+              {
+                "description": "Continuation of previous job, under a new contract with client company."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AT Sistemas"
+        },
+        "roles": [
+          {
+            "name": "Java Analist",
+            "startDate": "2005-10-01",
+            "finishDate": "2007-02-28",
+            "challenges": [
+              {
+                "description": "Outsourced to Línea Directa Aseguradora\n\n- Maintenance of a CTI application on Infinity\n- Functional analysis, SW architecture design and development of a new CTI client on Genesys platform, with Nortel PBX and SWT technology\n\nEclipse/RAD, SWT, CICS transactions on DB2, JDBC on Oracle, SQL, SOAP\nwebservices, XML, Websphere, CTI Genesys, Photoshop, Dimensions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GFI Informática",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/027ef706-f803-4640-b598-380252c66389_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/027ef706-f803-4640-b598-380252c66389_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Analist/Developer",
+            "startDate": "2005-03-01",
+            "finishDate": "2005-10-31",
+            "challenges": [
+              {
+                "description": "Evolutionary and corrective maintenance of the content management system for Movistar 3G"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alba Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/1c37f6c4-c84d-4f38-a25c-92f79e6f7852_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/1c37f6c4-c84d-4f38-a25c-92f79e6f7852_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Analist/Developer",
+            "startDate": "2004-10-01",
+            "finishDate": "2005-03-31",
+            "challenges": [
+              {
+                "description": "Outsourced to Grupo Delaware, for Vodafone\n\nDevelopment of a VDN management application"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gextech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/f3c3e0a7-5421-4908-88a6-131a90820201_linkedin-photo-194.linkedin-photo-194",
+            "alt": "23/12/14/f3c3e0a7-5421-4908-88a6-131a90820201_linkedin-photo-194.linkedin-photo-194"
+          }
+        },
+        "roles": [
+          {
+            "name": "Java Analist/Developer",
+            "startDate": "2003-07-01",
+            "finishDate": "2004-01-31",
+            "challenges": [
+              {
+                "description": "Responsible for designing and implementing the prize system for GOS (Game Operating System), a platform for developing slot machines"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Legend Studios"
+        },
+        "roles": [
+          {
+            "name": "Visual C++ Developer and Webmaster",
+            "startDate": "2002-07-01",
+            "finishDate": "2003-06-30",
+            "challenges": [
+              {
+                "description": "Development of War Times, a RTS videogame. Specialized in UI and data communication over TCP/IP.\nWebmaster for its promotional website."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Datacontrol Sistemas Informaticos"
+        },
+        "roles": [
+          {
+            "name": "Web Designer/Developer",
+            "startDate": "2000-11-01",
+            "finishDate": "2001-04-30",
+            "challenges": [
+              {
+                "description": "Grant from Andalucía regional government through University of Málaga\n\nDevelopment and maintenance of several websites and web applications, including an e-learning portal"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
