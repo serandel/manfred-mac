@@ -1,44 +1,25 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Sergio Antonio",
       "surnames": "Delgado Quero",
       "title": "Senior Software Engineer at BestSecret",
-      "description": "",
       "avatar": {
-        "alt": "avatar.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0c96361e-7659-474a-b7ef-6e38e7b51298_avatar.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0c96361e-7659-474a-b7ef-6e38e7b51298_avatar.png",
+        "alt": "avatar.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJI_ovED7icg0R9GIZm1HcWCA)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Fuengirola",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Fuengirola"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/serandel"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/1154011/serandel"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/@serandel"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sergio-antonio-delgado-quero/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Favorite editor",
@@ -53,26 +34,26 @@
       {
         "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
         "type": "reading",
+        "summary": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.",
         "authors": [
           {
             "name": "Robert C.",
             "surnames": "Martin",
             "title": "Author"
           }
-        ],
-        "summary": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."
+        ]
       },
       {
         "title": "Cracking the Coding Interview",
         "type": "reading",
+        "summary": "I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.",
         "authors": [
           {
             "name": "Gayle",
             "surnames": "Laakman McDowell",
             "title": "Author"
           }
-        ],
-        "summary": "I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book."
+        ]
       },
       {
         "title": "Planifica tu éxito: de aprendiz a empresario",
@@ -84,34 +65,51 @@
             "surnames": "Canales",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The Busy Coder's Guide to Android Development",
         "type": "reading",
         "URL": "http://commonsware.com/Android",
+        "summary": "The Busy Coder's Guide to Android Development offers over 200 chapters of Android knowledge, from the very basics through highly advanced topics. Updated several times a year, it covers Android Studio 2.2 and the latest Android SDKs, including Android 7.0.",
         "authors": [
           {
             "name": "Mark",
             "surnames": "Murphy",
             "title": "Author"
           }
-        ],
-        "summary": "The Busy Coder's Guide to Android Development offers over 200 chapters of Android knowledge, from the very basics through highly advanced topics. Updated several times a year, it covers Android Studio 2.2 and the latest Android SDKs, including Android 7.0."
+        ]
       },
       {
         "title": "Thinking in Java",
         "type": "reading",
         "URL": "http://www.mindview.net/Books/TIJ",
+        "summary": "Thinking in Java has earned raves from programmers worldwide for its extraordinary clarity, careful organization, and small, direct programming examples. From the fundamentals of Java syntax to its most advanced features, Thinking in Java is designed to teach, one simple step at a time.",
         "authors": [
           {
             "name": "Bruce",
             "surnames": "Eckel",
             "title": "Author"
           }
-        ],
-        "summary": "Thinking in Java has earned raves from programmers worldwide for its extraordinary clarity, careful organization, and small, direct programming examples. From the fundamentals of Java syntax to its most advanced features, Thinking in Java is designed to teach, one simple step at a time."
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergio-antonio-delgado-quero/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/serandel"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/@serandel"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/1154011/serandel"
       }
     ]
   },
@@ -121,8 +119,8 @@
         "organization": {
           "name": "BestSecret",
           "image": {
-            "alt": "bs-logo-symbol.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/806b619d-17c7-4bec-b418-5efa026e548f_bs-logo-symbol.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/806b619d-17c7-4bec-b418-5efa026e548f_bs-logo-symbol.svg",
+            "alt": "bs-logo-symbol.svg"
           },
           "URL": "https://www.bestsecret.com"
         },
@@ -188,8 +186,8 @@
         "organization": {
           "name": "Gradle Inc.",
           "image": {
-            "alt": "799px-Gradle_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ced5081f-4ace-4096-9bcc-5090de61e6eb_799px-gradle_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ced5081f-4ace-4096-9bcc-5090de61e6eb_799px-gradle_logo.png",
+            "alt": "799px-Gradle_logo.png"
           },
           "URL": "https://gradle.com/"
         },
@@ -232,8 +230,8 @@
         "organization": {
           "name": "ThoughtWorks",
           "image": {
-            "alt": "Thoughtworks_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/603c7c02-218e-4295-b81d-99386bb8cd39_thoughtworks_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/603c7c02-218e-4295-b81d-99386bb8cd39_thoughtworks_logo.png",
+            "alt": "Thoughtworks_logo.png"
           },
           "URL": "https://www.thoughtworks.com/"
         },
@@ -269,7 +267,7 @@
                 "type": "technology"
               },
               {
-                "name": "Micronaut",
+                "name": "Micronaut Framework",
                 "type": "technology"
               },
               {
@@ -292,8 +290,8 @@
         "organization": {
           "name": "YouCanBook.me",
           "image": {
-            "alt": "YouCanBook.me",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/280abbc3-8b23-4fb6-b746-f103d601ed2e_dlkgw.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/280abbc3-8b23-4fb6-b746-f103d601ed2e_dlkgw.png",
+            "alt": "YouCanBook.me"
           },
           "URL": "https://youcanbook.me"
         },
@@ -368,8 +366,8 @@
         "organization": {
           "name": "Ebury",
           "image": {
-            "alt": "Ebury",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac8538d3-0af9-4f70-beb3-1e60d7989b54_bscsduunyoawcwyjxva8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac8538d3-0af9-4f70-beb3-1e60d7989b54_bscsduunyoawcwyjxva8.png",
+            "alt": "Ebury"
           },
           "URL": "http://ebury.com"
         },
@@ -378,11 +376,6 @@
             "name": "Madrid Development Team Lead",
             "startDate": "2018-03-01",
             "finishDate": "2018-08-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AWS",
@@ -456,8 +449,8 @@
         "organization": {
           "name": "Paradigma Digital",
           "image": {
-            "alt": "Paradigma Digital",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8048ac8a-eb39-410e-a94b-79df57aebb91_xcxmq.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8048ac8a-eb39-410e-a94b-79df57aebb91_xcxmq.jpg",
+            "alt": "Paradigma Digital"
           },
           "URL": "http://www.paradigmadigital.com"
         },
@@ -524,8 +517,8 @@
         "organization": {
           "name": "Placo Saint-Gobain España",
           "image": {
-            "alt": "Placo Saint-Gobain España",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2bca91cc-16b8-40ed-8e68-b8517ed8afbe_2uquv.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2bca91cc-16b8-40ed-8e68-b8517ed8afbe_2uquv.png",
+            "alt": "Placo Saint-Gobain España"
           },
           "URL": "http://www.placo.es"
         },
@@ -568,8 +561,8 @@
         "organization": {
           "name": "Placo Saint-Gobain España",
           "image": {
-            "alt": "Placo Saint-Gobain España",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43a6d541-0741-473e-805a-b38bbf774cfb_lbjdz.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43a6d541-0741-473e-805a-b38bbf774cfb_lbjdz.png",
+            "alt": "Placo Saint-Gobain España"
           },
           "URL": "https://www.placo.es"
         },
@@ -604,8 +597,8 @@
         "organization": {
           "name": "Linea Directa",
           "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a0972385-fb66-4360-a89b-6b7b7e5089ba_awi7p.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a0972385-fb66-4360-a89b-6b7b7e5089ba_awi7p.png",
+            "alt": "Linea Directa"
           },
           "URL": "http://www.lineadirecta.com"
         },
@@ -688,8 +681,8 @@
         "organization": {
           "name": "Linea Directa",
           "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be98eb88-53e5-4775-9ffb-ce26fe83a5ba_awi7p.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be98eb88-53e5-4775-9ffb-ce26fe83a5ba_awi7p.png",
+            "alt": "Linea Directa"
           },
           "URL": "http://www.lineadirecta.com"
         },
@@ -736,8 +729,8 @@
         "organization": {
           "name": "Linea Directa",
           "image": {
-            "alt": "Linea Directa",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b34a5e5-3bae-4b9f-9603-8fc07904a00b_awi7p.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b34a5e5-3bae-4b9f-9603-8fc07904a00b_awi7p.png",
+            "alt": "Linea Directa"
           },
           "URL": "http://www.lineadirecta.com"
         },
@@ -780,8 +773,8 @@
         "organization": {
           "name": "GFI Software",
           "image": {
-            "alt": "GFI Software",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/176e868f-08f7-40c6-8896-449287d35d05_pi8fno6twicbxyc4a9ez.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/176e868f-08f7-40c6-8896-449287d35d05_pi8fno6twicbxyc4a9ez.jpg",
+            "alt": "GFI Software"
           },
           "URL": "http://www.gfi.com"
         },
@@ -816,8 +809,8 @@
         "organization": {
           "name": "Alba Technology",
           "image": {
-            "alt": "Alba Technology",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3db8acdc-a5da-4d34-8c47-857f1c053d3c_dqo7h.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/3db8acdc-a5da-4d34-8c47-857f1c053d3c_dqo7h.jpg",
+            "alt": "Alba Technology"
           },
           "URL": "http://www.albatechnology.com"
         },
@@ -856,8 +849,8 @@
         "organization": {
           "name": "Gextech",
           "image": {
-            "alt": "Gextech",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/567d5553-a86f-4a5c-9643-6b946a45ec13_e9lvc.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/567d5553-a86f-4a5c-9643-6b946a45ec13_e9lvc.png",
+            "alt": "Gextech"
           },
           "URL": "https://www.linkedin.com/company/gextech"
         },
@@ -888,8 +881,8 @@
         "organization": {
           "name": "Legend Studios",
           "image": {
-            "alt": "Legend Studios",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/597b0a86-f4b1-4434-8018-8e83e45bac11_bfilr.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/597b0a86-f4b1-4434-8018-8e83e45bac11_bfilr.png",
+            "alt": "Legend Studios"
           },
           "URL": "https://www.linkedin.com/company/legend-studios"
         },
@@ -924,8 +917,8 @@
         "organization": {
           "name": "Datacontrol Sistemas Informáticos",
           "image": {
-            "alt": "Datacontrol Sistemas Informáticos",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/20233b68-f135-4072-99a2-35ac6181a26b_wejqu.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/20233b68-f135-4072-99a2-35ac6181a26b_wejqu.jpg",
+            "alt": "Datacontrol Sistemas Informáticos"
           },
           "URL": "http://www.datacontrol.es/"
         },
@@ -964,8 +957,8 @@
           "description": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, “YouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.” At YoucanBook.me, we like to say that we’re “a small company that does great things.” Many aspects of our day-to-day culture are \\[…\\]",
           "URL": "https://aws.amazon.com/es/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
           "image": {
-            "alt": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru | Amazon Web Services",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/13b2054b-a2f3-4abd-8e34-27976d5ea3dc_as9y6.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/13b2054b-a2f3-4abd-8e34-27976d5ea3dc_as9y6.jpg",
+            "alt": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru | Amazon Web Services"
           }
         },
         "type": "post",
@@ -986,21 +979,17 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "AWS",
@@ -1009,43 +998,7 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Micronaut",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
+          "name": "AWS Lambda",
           "type": "technology"
         }
       },
@@ -1057,7 +1010,49 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Micronaut Framework",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -1070,19 +1065,46 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificate in Advanced English (CAE",
+        "startDate": "2012-05-01",
+        "institution": {
+          "name": "C1 Level)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2a37128b-b8cf-466b-a75b-36b374ed9bcd_llcco.gif",
+            "alt": "Certificate in Advanced English (CAE, C1 Level)"
+          }
+        },
+        "finishDate": "2012-05-31"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified Scrum Master",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "Certified Scrum Master",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e7c3fe0a-20e7-4a92-9a3f-0ce2ee954ede_o3szw.jpg",
+            "alt": "Certified Scrum Master"
+          }
+        },
+        "finishDate": "2012-09-30"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Docker Administration and Operations",
         "startDate": "2016-04-01",
-        "finishDate": "2016-04-30",
         "institution": {
           "name": "Antelops",
-          "description": "",
           "image": {
-            "alt": "Docker Administration and Operations",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43c036bf-66b3-4544-b91e-d218f8849b5b_jhg86.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/43c036bf-66b3-4544-b91e-d218f8849b5b_jhg86.png",
+            "alt": "Docker Administration and Operations"
           }
         },
+        "finishDate": "2016-04-30",
         "linkedCompetences": [
           {
             "name": "Docker",
@@ -1101,97 +1123,83 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Introduction to Neo4j",
-        "startDate": "2015-06-01",
-        "finishDate": "2015-06-30",
+        "name": "Engineer in Computer Science",
+        "startDate": "1995-09-01",
         "institution": {
-          "name": "Neo Technology",
-          "description": "",
+          "name": "University of Malaga",
           "image": {
-            "alt": "Introduction to Neo4j",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0225bffc-91d5-4017-bb1c-1007860e3d9f_k7wrc.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6bffdab0-0b57-4b14-8bc1-c7d378fd0342_zrzd8.gif",
+            "alt": "Engineer in Computer Science"
           }
         },
-        "linkedCompetences": [
-          {
-            "name": "NEO4J",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certified Scrum Master",
-        "startDate": "2012-09-01",
-        "finishDate": "2012-09-30",
-        "institution": {
-          "name": "Certified Scrum Master",
-          "description": "",
-          "image": {
-            "alt": "Certified Scrum Master",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e7c3fe0a-20e7-4a92-9a3f-0ce2ee954ede_o3szw.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certificate in Advanced English (CAE",
-        "startDate": "2012-05-01",
-        "finishDate": "2012-05-31",
-        "institution": {
-          "name": "C1 Level)",
-          "description": "",
-          "image": {
-            "alt": "Certificate in Advanced English (CAE, C1 Level)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2a37128b-b8cf-466b-a75b-36b374ed9bcd_llcco.gif"
-          }
-        }
+        "finishDate": "2002-07-31"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "First Certificate in English (FCE",
         "startDate": "2009-05-01",
-        "finishDate": "2009-05-31",
         "institution": {
           "name": "B2 Level)",
-          "description": "",
           "image": {
-            "alt": "First Certificate in English (FCE, B2 Level)",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d907a89e-f112-4289-a850-1a5a1919c378_wdhnb.gif"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d907a89e-f112-4289-a850-1a5a1919c378_wdhnb.gif",
+            "alt": "First Certificate in English (FCE, B2 Level)"
           }
-        }
+        },
+        "finishDate": "2009-05-31"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "ITIL Foundation",
         "startDate": "2007-07-01",
-        "finishDate": "2007-07-31",
         "institution": {
           "name": "ITIL Foundation",
-          "description": "",
           "image": {
-            "alt": "ITIL Foundation",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b3cfd60b-d0e6-4726-921b-574e353788ff_k34qu.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b3cfd60b-d0e6-4726-921b-574e353788ff_k34qu.jpg",
+            "alt": "ITIL Foundation"
           }
-        }
+        },
+        "finishDate": "2007-07-31"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Engineer in Computer Science",
-        "startDate": "1995-09-01",
-        "finishDate": "2002-07-31",
+        "name": "Introduction to Neo4j",
+        "startDate": "2015-06-01",
         "institution": {
-          "name": "University of Malaga",
-          "description": "",
+          "name": "Neo Technology",
           "image": {
-            "alt": "Engineer in Computer Science",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6bffdab0-0b57-4b14-8bc1-c7d378fd0342_zrzd8.gif"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0225bffc-91d5-4017-bb1c-1007860e3d9f_k7wrc.jpg",
+            "alt": "Introduction to Neo4j"
           }
+        },
+        "finishDate": "2015-06-30",
+        "linkedCompetences": [
+          {
+            "name": "NEO4J",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team management",
+          "type": "practice"
         }
       }
     ]
@@ -1200,12 +1208,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sergio-antonio-delgado-quero/"
+          "URL": "https://www.linkedin.com/in/sergio-antonio-delgado-quero/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/1154011/serandel"
+          "URL": "https://stackoverflow.com/users/1154011/serandel",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/serandel",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/@serandel",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "serandel@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "600371970",
+          "countryCode": "+34"
         }
       ]
     },
@@ -1273,15 +1298,33 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Kotlin",
-        "type": "technology"
-      },
       {
         "name": "Docker",
         "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My aim is to be able to develop software in the best way I know, and know better each day",
+    "bookmarks": [
+      {
+        "name": "Clean Code: A Handbook of Agile Software Craftsmanship"
+      },
+      {
+        "name": "Cracking the Coding Interview"
+      },
+      {
+        "name": "Planifica tu éxito: de aprendiz a empresario"
+      },
+      {
+        "name": "The Busy Coder's Guide to Android Development"
+      },
+      {
+        "name": "Thinking in Java"
       }
     ]
   }
